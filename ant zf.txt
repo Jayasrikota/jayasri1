@@ -1,0 +1,13 @@
+whoever sets a property first freezes it for the rest of the build;
+ they are most definitely not variables.
+
+
+training Docs
+https://drive.google.com/drive/folders/1ymYT0hMhqGZIUj5Iu6iglD0bbL1TN7Ee
+
+
+build tools helps us in creating executable application from source code.
+
+Typically you use properties for values that you need to refer to 
+multiple times in your Ant build script. For instance, 
+the source directory of your Java code, or the build output directory.
